@@ -2,6 +2,42 @@
   "date": "2026-05-29",
   "laohu8_news": [
     {
+      "title": "美股异动 | 道指首次站上51000点再创新高！",
+      "url": "https://www.laohu8.com/news/1195771882"
+    },
+    {
+      "title": "特朗普就结束伊朗战事提出条件",
+      "url": "https://www.laohu8.com/news/1120617180"
+    },
+    {
+      "title": "美股异动 | AI应用软件股上涨，Palantir涨超10%",
+      "url": "https://www.laohu8.com/news/1163446627"
+    },
+    {
+      "title": "英伟达MGX生态版图扩张背后：一场从800V到GPU核心的效率革命正悄然展开",
+      "url": "https://www.laohu8.com/news/1138469833"
+    },
+    {
+      "title": "戴尔业绩大涨，为什么传统服务器迎来意想不到的爆发?",
+      "url": "https://www.laohu8.com/news/2639673965"
+    },
+    {
+      "title": "美股异动 | 费城半导体指数涨超2%再创新高，高通、Credo涨超6%",
+      "url": "https://www.laohu8.com/news/1148327596"
+    },
+    {
+      "title": "美股异动 | 光通信概念股回调，POET跌超7%",
+      "url": "https://www.laohu8.com/news/1189765334"
+    },
+    {
+      "title": "马斯克否认SpaceX下调IPO估值目标",
+      "url": "https://www.laohu8.com/news/1101688738"
+    },
+    {
+      "title": "美股开盘 | 三大指数高开，戴尔暴涨32%，美国网存涨超23%",
+      "url": "https://www.laohu8.com/news/1194759172"
+    },
+    {
       "title": "互联网的免费时代，结束了",
       "url": "https://www.laohu8.com/news/1159063762"
     },
@@ -24,130 +60,98 @@
     {
       "title": "美股盘前｜戴尔绩后暴涨34%，美国网存涨超18%；太空概念股回落， ASTS跌超13%",
       "url": "https://www.laohu8.com/news/1102719838"
-    },
-    {
-      "title": "三星、SK海力士暴涨“撑爆”持仓红线：基金被迫抛售，韩股外资创纪录流出",
-      "url": "https://www.laohu8.com/news/2639267876"
-    },
-    {
-      "title": "波动越大越赚钱！华尔街大行二季度靠交易与AI融资赚翻了",
-      "url": "https://www.laohu8.com/news/2639463621"
-    },
-    {
-      "title": "盘前异动 | 美股太空股全线回落， ASTS跌超14%",
-      "url": "https://www.laohu8.com/news/1186001707"
-    },
-    {
-      "title": "为代理权争夺战“储弹药”？560亿美元收购要约遭拒后，游戏驿站火速增持eBay股份",
-      "url": "https://www.laohu8.com/news/2639472416"
-    },
-    {
-      "title": "IPO前夕，SpaceX估值从2万亿美元下调至1.8万亿",
-      "url": "https://www.laohu8.com/news/2639625391"
-    },
-    {
-      "title": "英伟达密集投资光子技术：三个月出手至少65亿美元",
-      "url": "https://www.laohu8.com/news/2639562887"
-    },
-    {
-      "title": "高盛消费者仪表盘“亮黄灯”：美国人储蓄见底、收入缩水，只剩股市托底",
-      "url": "https://www.laohu8.com/news/2639021628"
-    },
-    {
-      "title": "三星或拿下Anthropic芯片订单，晶圆代工业务迎来“翻身仗”？",
-      "url": "https://www.laohu8.com/news/2639640109"
     }
   ],
   "premarket_movers": [
     {
-      "ticker": "MASK",
-      "company": "3 E Network Technology Group Ltd",
-      "price": "4.13",
-      "change": "199.28%"
+      "ticker": "STG",
+      "company": "Sunlands Technology Group ADR",
+      "price": "6.14",
+      "change": "125.74%"
     },
     {
-      "ticker": "SPRC",
-      "company": "SciSparc Ltd",
-      "price": "10.55",
-      "change": "140.32%"
+      "ticker": "PRFX",
+      "company": "PRF Technologies Ltd",
+      "price": "3.00",
+      "change": "118.98%"
+    },
+    {
+      "ticker": "REPL",
+      "company": "Replimune Group Inc",
+      "price": "8.69",
+      "change": "85.68%"
+    },
+    {
+      "ticker": "OLOX",
+      "company": "Olenox Industries Inc",
+      "price": "8.77",
+      "change": "78.25%"
     },
     {
       "ticker": "ASTC",
       "company": "Astrotech Corp",
-      "price": "29.43",
-      "change": "113.11%"
+      "price": "49.80",
+      "change": "69.22%"
     },
     {
-      "ticker": "ATPC",
-      "company": "Agape ATP Corp",
-      "price": "6.07",
-      "change": "112.98%"
+      "ticker": "QH",
+      "company": "Quhuo Ltd ADR",
+      "price": "7.73",
+      "change": "54.60%"
     },
     {
-      "ticker": "TOPP",
-      "company": "Toppoint Holdings Inc",
-      "price": "2.75",
-      "change": "78.57%"
+      "ticker": "VCIG",
+      "company": "VCI Global Ltd",
+      "price": "8.47",
+      "change": "46.29%"
     },
     {
-      "ticker": "FATN",
-      "company": "Fatpipe Inc",
-      "price": "7.66",
-      "change": "58.92%"
+      "ticker": "CMND",
+      "company": "Clearmind Medicine Inc",
+      "price": "3.58",
+      "change": "46.12%"
     },
     {
-      "ticker": "NCT",
-      "company": "Intercont (Cayman) Ltd",
-      "price": "3.88",
-      "change": "58.37%"
+      "ticker": "IOTR",
+      "company": "iOThree Ltd",
+      "price": "3.91",
+      "change": "39.64%"
     },
     {
-      "ticker": "UMAC",
-      "company": "Unusual Machines Inc",
-      "price": "29.60",
-      "change": "57.20%"
+      "ticker": "SPCE",
+      "company": "Virgin Galactic Holdings Inc",
+      "price": "6.18",
+      "change": "36.42%"
     },
     {
-      "ticker": "CODX",
-      "company": "Co-Diagnostics Inc",
-      "price": "11.19",
-      "change": "53.29%"
+      "ticker": "SPPL",
+      "company": "Simpple Ltd",
+      "price": "3.59",
+      "change": "35.47%"
     },
     {
-      "ticker": "CUPR",
-      "company": "Cuprina Holdings (Cayman) Ltd",
-      "price": "3.30",
-      "change": "48.98%"
+      "ticker": "YMAT",
+      "company": "J-Star Holding Co Ltd",
+      "price": "1.37",
+      "change": "34.31%"
     },
     {
-      "ticker": "QTEX",
-      "company": "QTREX Quantum Ltd",
-      "price": "3.00",
-      "change": "42.86%"
+      "ticker": "PD",
+      "company": "Pagerduty Inc",
+      "price": "9.95",
+      "change": "33.74%"
     },
     {
-      "ticker": "BRR",
-      "company": "ProCap Financial Inc",
-      "price": "2.28",
-      "change": "40.74%"
+      "ticker": "DELL",
+      "company": "Dell Technologies Inc",
+      "price": "420.91",
+      "change": "32.76%"
     },
     {
-      "ticker": "AKTX",
-      "company": "Akari Therapeutics Plc ADR",
-      "price": "22.05",
-      "change": "38.46%"
-    },
-    {
-      "ticker": "SNOW",
-      "company": "Snowflake Inc",
-      "price": "239.20",
-      "change": "36.48%"
-    },
-    {
-      "ticker": "TURB",
-      "company": "Turbo Energy SA ADR",
-      "price": "1.42",
-      "change": "35.24%"
+      "ticker": "GITS",
+      "company": "Global Interactive Technologies Inc",
+      "price": "2.13",
+      "change": "31.48%"
     }
   ]
 }
