@@ -2,6 +2,42 @@
   "date": "2026-06-02",
   "laohu8_news": [
     {
+      "title": "美国总统特朗普签署行政命令，促进先进人工智能创新与安全",
+      "url": "https://www.laohu8.com/news/1137074116"
+    },
+    {
+      "title": "特斯拉盘中涨超1.7%，上海超级工厂5月交付超8.5万辆汽车",
+      "url": "https://www.laohu8.com/news/1191536870"
+    },
+    {
+      "title": "光通信股涨势不止，COHERENT大涨超19%，Ciena科技涨超7%，齐创新高",
+      "url": "https://www.laohu8.com/news/1171977401"
+    },
+    {
+      "title": "思科创新高，市值突破5000亿美元，推出云控制平台用于整合AI运营",
+      "url": "https://www.laohu8.com/news/1158053651"
+    },
+    {
+      "title": "美国国务卿鲁比奥：与伊朗的协议或于今日、明日或下周落地",
+      "url": "https://www.laohu8.com/news/1147801277"
+    },
+    {
+      "title": "苹果市值反超谷歌，目前位居全球第二，仅次于英伟达",
+      "url": "https://www.laohu8.com/news/1188539499"
+    },
+    {
+      "title": "存储概念股集体上扬，西部数据、希捷科技、美光科技均创历史新高",
+      "url": "https://www.laohu8.com/news/1130868172"
+    },
+    {
+      "title": "半导体股普涨，费城半导体指数、迈威尔科技、意法半导体、博通、美光齐创新高",
+      "url": "https://www.laohu8.com/news/1182194341"
+    },
+    {
+      "title": "开盘｜美股低开，维多利亚的秘密暴涨41%，慧与科技涨36%，迈威尔科技涨超19%",
+      "url": "https://www.laohu8.com/news/1112689386"
+    },
+    {
       "title": "盘前｜维多利亚的秘密暴涨38%，慧与科技涨超27%，迈威尔科技涨逾18%",
       "url": "https://www.laohu8.com/news/1184118045"
     },
@@ -10,7 +46,7 @@
       "url": "https://www.laohu8.com/news/1133876448"
     },
     {
-      "title": "维多利亚的秘密盘前飙升，第二季度销售指引超预期",
+      "title": "维多利亚的秘密致信股东，强调强劲业绩、显著的股东价值创造及持续增长势头",
       "url": "https://www.laohu8.com/news/1109894711"
     },
     {
@@ -24,134 +60,98 @@
     {
       "title": "盘前异动｜迈威尔科技、慧与科技暴涨，意法半导体、博通势创新高，中概股普涨",
       "url": "https://www.laohu8.com/news/1109006985"
-    },
-    {
-      "title": "三星电子首次展示HBM5，押注下一代AI存储竞争",
-      "url": "https://www.laohu8.com/news/1126792149"
-    },
-    {
-      "title": "老虎国际：一季度营收同比增长26.3%，期内总交易额按年增长49%",
-      "url": "https://www.laohu8.com/news/1124158767"
-    },
-    {
-      "title": "期权聚焦 | 特斯拉现400美元买入跨式押注，近月将有大行情？大规模远月牛市价差押注长期上涨",
-      "url": "https://www.laohu8.com/news/1101726044"
-    },
-    {
-      "title": "特朗普带动IBM股价大涨？背后还有这些驱动因素",
-      "url": "https://www.laohu8.com/news/1194053658"
-    },
-    {
-      "title": "Arm CEO 称或将提前实现150亿美元AI芯片收入目标",
-      "url": "https://www.laohu8.com/news/1149672560"
-    },
-    {
-      "title": "美光跻身“千元股”俱乐部！华尔街继续看涨，密集上调目标价",
-      "url": "https://www.laohu8.com/news/1170396511"
-    },
-    {
-      "title": "期权大单｜英伟达进军PC处理器，远月实值Call成交超4000万美元；诺基亚Q1扭亏转型AI光网络，多张Call单飙升近200%",
-      "url": "https://www.laohu8.com/news/1161021467"
-    },
-    {
-      "title": "外卖大战降温，美团重回正轨：亏损大幅收窄超预期，外卖客单价和份额回升",
-      "url": "https://www.laohu8.com/news/2640990523"
-    },
-    {
-      "title": "恒生指数午后涨幅扩大至2%，腾讯控股涨近10%",
-      "url": "https://www.laohu8.com/news/1170536101"
     }
   ],
   "premarket_movers": [
     {
-      "ticker": "HKIT",
-      "company": "Hitek Global Inc",
-      "price": "6.58",
-      "change": "350.68%"
+      "ticker": "DXST",
+      "company": "Decent Holding Inc",
+      "price": "4.95",
+      "change": "209.37%"
     },
     {
-      "ticker": "TGHL",
-      "company": "Growhub Ltd",
-      "price": "1.35",
-      "change": "288.15%"
+      "ticker": "LASE",
+      "company": "Laser Photonics Corp",
+      "price": "2.42",
+      "change": "160.92%"
     },
     {
-      "ticker": "ANY",
-      "company": "Sphere 3D Corp",
-      "price": "4.02",
-      "change": "111.58%"
+      "ticker": "BJDX",
+      "company": "Bluejay Diagnostics Inc",
+      "price": "4.34",
+      "change": "100.00%"
     },
     {
-      "ticker": "OPTU",
-      "company": "Optimum Communications Inc",
-      "price": "1.16",
-      "change": "76.24%"
+      "ticker": "RKTO",
+      "company": "Rocket One Inc",
+      "price": "2.22",
+      "change": "65.67%"
     },
     {
-      "ticker": "GNTA",
-      "company": "Genenta Science SpA ADR",
-      "price": "1.65",
-      "change": "60.19%"
+      "ticker": "LILKV",
+      "company": "Liberty Latin America Ltd - When Issued - June 2026 (Class C)",
+      "price": "5.60",
+      "change": "60.00%"
     },
     {
-      "ticker": "MASK",
-      "company": "3 E Network Technology Group Ltd",
-      "price": "5.45",
-      "change": "52.23%"
+      "ticker": "VIDA",
+      "company": "VIDA Global Inc",
+      "price": "5.54",
+      "change": "53.46%"
     },
     {
-      "ticker": "WALD",
-      "company": "Waldencast plc",
-      "price": "1.83",
-      "change": "48.78%"
+      "ticker": "VSXY",
+      "company": "Victoria's Secret & Co",
+      "price": "80.06",
+      "change": "47.44%"
     },
     {
-      "ticker": "FLNC",
-      "company": "Fluence Energy Inc",
-      "price": "27.15",
-      "change": "43.80%"
+      "ticker": "LEGN",
+      "company": "Legend Biotech Corp ADR",
+      "price": "36.28",
+      "change": "42.22%"
+    },
+    {
+      "ticker": "TDTH",
+      "company": "Trident Digital Tech Holdings Ltd ADR",
+      "price": "3.77",
+      "change": "38.60%"
+    },
+    {
+      "ticker": "SWMR",
+      "company": "Swarmer Inc",
+      "price": "78.52",
+      "change": "37.73%"
     },
     {
       "ticker": "FOFO",
       "company": "Hang Feng Technology Innovation Co Ltd",
-      "price": "2.97",
-      "change": "41.43%"
+      "price": "4.01",
+      "change": "35.02%"
     },
     {
-      "ticker": "EGG",
-      "company": "Enigmatig Ltd",
-      "price": "10.45",
-      "change": "37.59%"
+      "ticker": "PUSA",
+      "company": "Aureus Greenway Holdings Inc",
+      "price": "6.40",
+      "change": "33.89%"
     },
     {
-      "ticker": "NAMM",
-      "company": "Namib Minerals",
-      "price": "2.08",
-      "change": "36.84%"
+      "ticker": "GNTA",
+      "company": "Genenta Science SpA ADR",
+      "price": "2.20",
+      "change": "33.33%"
     },
     {
-      "ticker": "DAIC",
-      "company": "CID Holdco Inc",
-      "price": "4.54",
-      "change": "29.62%"
+      "ticker": "ZJYL",
+      "company": "Jin Medical International Ltd",
+      "price": "3.25",
+      "change": "33.20%"
     },
     {
-      "ticker": "SUPX",
-      "company": "SuperX AI Technology Ltd",
-      "price": "12.21",
-      "change": "28.80%"
-    },
-    {
-      "ticker": "FJET",
-      "company": "Starfighters Space Inc",
-      "price": "9.50",
-      "change": "27.35%"
-    },
-    {
-      "ticker": "CHR",
-      "company": "Cheer Holding Inc",
-      "price": "2.59",
-      "change": "25.12%"
+      "ticker": "MRVL",
+      "company": "Marvell Technology Inc",
+      "price": "290.79",
+      "change": "32.52%"
     }
   ]
 }
