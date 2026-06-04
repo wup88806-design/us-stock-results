@@ -2,6 +2,34 @@
   "date": "2026-06-04",
   "laohu8_news": [
     {
+      "title": "Solidion推出极端气候电池平台，满足太空数据中心、永久月球基地等需求",
+      "url": "https://www.laohu8.com/news/1160709127"
+    },
+    {
+      "title": "礼来、诺和诺德涨超5%，多项并购、研发进展及产能优化利好共振",
+      "url": "https://www.laohu8.com/news/1185465612"
+    },
+    {
+      "title": "美股三大指数集体走高，道琼斯指数涨1.3%，盘中创新高",
+      "url": "https://www.laohu8.com/news/1168124713"
+    },
+    {
+      "title": "太空概念股拉升，MNTS暴涨30%，Redwire大涨19%，维珍银河涨超18%",
+      "url": "https://www.laohu8.com/news/1135564299"
+    },
+    {
+      "title": "光通信股普跌，Ciena科技绩后大跌超19%，POET跌近10%",
+      "url": "https://www.laohu8.com/news/1189193485"
+    },
+    {
+      "title": "开盘｜纳指低开跌逾1%，博通盘初大跌近15%，芯片股普跌",
+      "url": "https://www.laohu8.com/news/1150379266"
+    },
+    {
+      "title": "Pinterest与亚马逊达成价值40亿美元的云服务合作协议",
+      "url": "https://www.laohu8.com/news/1105650447"
+    },
+    {
       "title": "美国至5月30日当周初请失业金人数22.5万人，预期21.3万人",
       "url": "https://www.laohu8.com/news/1117378811"
     },
@@ -32,126 +60,98 @@
     {
       "title": "盘前异动｜TLYS绩后大涨14%，博通跌超12%，半导体、存储、光通信概念集体走低",
       "url": "https://www.laohu8.com/news/1198790127"
-    },
-    {
-      "title": "“选择困难症”或成历史！奈飞利用AI助用户应对内容过载",
-      "url": "https://www.laohu8.com/news/2640132093"
-    },
-    {
-      "title": "传香港金管局低调遴选机构，计划以外汇基金新资金追踪标普500指数",
-      "url": "https://www.laohu8.com/news/2640372321"
-    },
-    {
-      "title": "期权大单｜Palantir遭唱空回调15%，惊现千万级远月Call单与近月Put对峙；迈威尔五连涨再创新高，看涨期权交投活跃",
-      "url": "https://www.laohu8.com/news/1158016878"
-    },
-    {
-      "title": "SpaceX美国得州芯片项目获税收优惠，创纪录IPO在即",
-      "url": "https://www.laohu8.com/news/1105223330"
-    },
-    {
-      "title": "曦智科技-P复牌跌超10%！董事不建议派发截至 2025 年12月31日止年度的股息",
-      "url": "https://www.laohu8.com/news/1153791367"
-    },
-    {
-      "title": "港股期权｜段永平再增持泡泡玛特，185港元认购期权成交近900张；阿里发布Qwen3.7-Plus跻身全球前五，172.5港元认购期权交投活跃",
-      "url": "https://www.laohu8.com/news/1139878823"
-    },
-    {
-      "title": "SemiAnalysis深度详解马斯克的“太空算力梦”：真正的瓶颈是什么？何时能上天？",
-      "url": "https://www.laohu8.com/news/2640314591"
     }
   ],
   "premarket_movers": [
     {
-      "ticker": "XOS",
-      "company": "Xos Inc",
-      "price": "7.46",
-      "change": "234.53%"
+      "ticker": "STI",
+      "company": "Solidion Technology Inc",
+      "price": "24.42",
+      "change": "384.62%"
     },
     {
-      "ticker": "SDOT",
-      "company": "Sadot Group Inc",
-      "price": "6.75",
-      "change": "105.79%"
+      "ticker": "INDP",
+      "company": "Indaptus Therapeutics Inc",
+      "price": "5.05",
+      "change": "128.51%"
     },
     {
-      "ticker": "STAK",
-      "company": "Stak Inc",
-      "price": "3.61",
-      "change": "90.00%"
-    },
-    {
-      "ticker": "FOFO",
-      "company": "Hang Feng Technology Innovation Co Ltd",
-      "price": "6.59",
-      "change": "64.34%"
-    },
-    {
-      "ticker": "JLHL",
-      "company": "Julong Holding Ltd",
-      "price": "34.44",
-      "change": "53.89%"
-    },
-    {
-      "ticker": "ANY",
-      "company": "Sphere 3D Corp",
-      "price": "5.65",
-      "change": "44.50%"
-    },
-    {
-      "ticker": "ATPC",
-      "company": "Agape ATP Corp",
-      "price": "4.25",
-      "change": "43.10%"
-    },
-    {
-      "ticker": "BNRG",
-      "company": "Brenmiller Energy Ltd",
-      "price": "1.82",
-      "change": "34.81%"
-    },
-    {
-      "ticker": "VSA",
-      "company": "VisionSys AI Inc ADR",
-      "price": "6.11",
-      "change": "31.97%"
-    },
-    {
-      "ticker": "LASE",
-      "company": "Laser Photonics Corp",
-      "price": "3.13",
-      "change": "29.34%"
-    },
-    {
-      "ticker": "QMCO",
-      "company": "Quantum Corp",
-      "price": "15.95",
-      "change": "27.19%"
-    },
-    {
-      "ticker": "ABVX",
-      "company": "Abivax ADR",
-      "price": "90.15",
-      "change": "24.34%"
-    },
-    {
-      "ticker": "FATN",
-      "company": "Fatpipe Inc",
-      "price": "7.92",
-      "change": "21.85%"
-    },
-    {
-      "ticker": "CING",
-      "company": "Cingulate Inc",
-      "price": "4.88",
-      "change": "21.09%"
+      "ticker": "VERU",
+      "company": "Veru Inc",
+      "price": "4.70",
+      "change": "108.88%"
     },
     {
       "ticker": "FOXX",
       "company": "Foxx Development Holdings Inc",
-      "price": "2.86",
-      "change": "20.76%"
+      "price": "5.30",
+      "change": "85.31%"
+    },
+    {
+      "ticker": "EDHL",
+      "company": "Everbright Digital Holding Ltd",
+      "price": "4.41",
+      "change": "68.89%"
+    },
+    {
+      "ticker": "SDOT",
+      "company": "Sadot Group Inc",
+      "price": "11.11",
+      "change": "64.67%"
+    },
+    {
+      "ticker": "WXM",
+      "company": "WF International Ltd",
+      "price": "5.91",
+      "change": "55.55%"
+    },
+    {
+      "ticker": "HCAT",
+      "company": "Health Catalyst Inc",
+      "price": "1.96",
+      "change": "47.38%"
+    },
+    {
+      "ticker": "NEXR",
+      "company": "Nexera Technologies Ltd",
+      "price": "1.46",
+      "change": "43.14%"
+    },
+    {
+      "ticker": "LSE",
+      "company": "Leishen Energy Holding Co Ltd",
+      "price": "4.48",
+      "change": "40.00%"
+    },
+    {
+      "ticker": "BJDX",
+      "company": "Bluejay Diagnostics Inc",
+      "price": "5.73",
+      "change": "27.05%"
+    },
+    {
+      "ticker": "MNTS",
+      "company": "Momentus Inc",
+      "price": "16.60",
+      "change": "26.52%"
+    },
+    {
+      "ticker": "PCLA",
+      "company": "PicoCELA Inc ADR",
+      "price": "7.69",
+      "change": "24.59%"
+    },
+    {
+      "ticker": "LNZA",
+      "company": "LanzaTech Global Inc",
+      "price": "6.77",
+      "change": "24.15%"
+    },
+    {
+      "ticker": "NTCL",
+      "company": "NetClass Technology Inc",
+      "price": "2.17",
+      "change": "23.58%"
     }
   ]
 }
