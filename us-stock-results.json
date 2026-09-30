@@ -1,157 +1,66 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "laohu8_news": [
     {
-      "title": "美国8月JOLTS职位空缺降至5个月最低，连续第3个月不及预期",
-      "url": "https://www.laohu8.com/news/2671246861"
+      "title": "FTC加大对Anthropic、OpenAI等AI巨头的调查力度，FTC官员：不会妨碍AI主导地位",
+      "url": "https://www.laohu8.com/news/2672866867"
     },
     {
-      "title": "苹果新任CEO特努斯启动深度改革：精简架构、提速产品迭代",
-      "url": "https://www.laohu8.com/news/1105158102"
+      "title": "高盛策略师警示：盈利支撑暂稳股市，美债抛售若提速，美股或将承压",
+      "url": "https://www.laohu8.com/news/2672178655"
     },
     {
-      "title": "美债抛售潮持续，30年期美债收益率创2002年来新高",
-      "url": "https://www.laohu8.com/news/1170520917"
+      "title": "低于预期！美国8月核心PCE同比增长3%",
+      "url": "https://www.laohu8.com/news/2671785903"
     },
     {
-      "title": "特朗普：将通过行政令把“人工智能”更名为“超级智能”",
-      "url": "https://www.laohu8.com/news/1164802177"
+      "title": "美国8月商品贸易逆差意外扩大至1326亿美元，创一年多来新高",
+      "url": "https://www.laohu8.com/news/2671830077"
     },
     {
-      "title": "NetApp与甲骨文将推出原生OCI存储服务",
-      "url": "https://www.laohu8.com/news/1153638264"
+      "title": "原油市场出现反常一幕：油价高位之际，资金却在疯狂买入看跌期权",
+      "url": "https://www.laohu8.com/news/2671206207"
     },
     {
-      "title": "市场消息：OpenAI的年度经常性收入接近700亿美元",
-      "url": "https://www.laohu8.com/news/1144156342"
+      "title": "减重超24公斤！礼来联合用药在糖尿病研究中推动创纪录减重",
+      "url": "https://www.laohu8.com/news/1101199768"
     },
     {
-      "title": "Jefferies上调Bloom Energy目标价至264美元",
-      "url": "https://www.laohu8.com/news/1135836911"
+      "title": "纳指涨幅扩大至1%，大型科技股集体走强，谷歌A涨超3%",
+      "url": "https://www.laohu8.com/news/1133985764"
     },
     {
-      "title": "美股光通信概念股盘初普涨，康宁、Lumentum、POET Technologies涨超4%",
-      "url": "https://www.laohu8.com/news/1140250106"
+      "title": "美股量子计算概念股盘中走高，IONQ涨超6%",
+      "url": "https://www.laohu8.com/news/1118551500"
     },
     {
-      "title": "热门中概股盘初普跌，蔚来跌超5%，理想汽车、小鹏集团跌超4%",
-      "url": "https://www.laohu8.com/news/1193106569"
+      "title": "全球债市遭遇“至暗9月”，美债收益率冲上2007年以来高位，股市却逆势抗跌",
+      "url": "https://www.laohu8.com/news/2671139201"
     },
     {
-      "title": "美股开盘 | 三大股指涨跌不一，邮轮股集体走强，嘉年华邮轮涨超9%",
-      "url": "https://www.laohu8.com/news/1157635429"
+      "title": "美股太空概念股盘中拉升，Rocket Lab USA、Intuitive Machines涨超6%",
+      "url": "https://www.laohu8.com/news/1151422202"
     },
     {
-      "title": "美股邮轮股强势拉升，嘉年华邮轮涨超9%，Q3营收超市场预期",
-      "url": "https://www.laohu8.com/news/1170339944"
+      "title": "异动解读｜新思科技盘中上涨3.17%，与亚马逊签署超10亿美元多年期芯片设计授权协议",
+      "url": "https://www.laohu8.com/news/1108005104"
     },
     {
-      "title": "外资持仓跌至历史低位，韩国半导体的估值洼地究竟是陷阱还是机遇?",
-      "url": "https://www.laohu8.com/news/2671621249"
+      "title": "FTC对Anthropic、OpenAI等超级智能模型公司展开全面调查",
+      "url": "https://www.laohu8.com/news/1166304742"
     },
     {
-      "title": "AT&T与康宁签署超过30亿美元的多年期协议",
-      "url": "https://www.laohu8.com/news/1164486658"
+      "title": "美股开盘 | 三大指数集体高开，慧与科技涨超7%",
+      "url": "https://www.laohu8.com/news/1135886562"
     },
     {
-      "title": "\"我几乎不再开车了\"，大摩分析师：特斯拉FSD或已接近\"解决\"自动驾驶难题",
-      "url": "https://www.laohu8.com/news/2671112412"
+      "title": "股价反弹40%后， 美光今夜迎财报大考：净利预期暴增超1000%，市场紧盯明年AI资本开支",
+      "url": "https://www.laohu8.com/news/2671201013"
     },
     {
-      "title": "美债冲击持续加剧，为何美股依然无动于衷？",
-      "url": "https://www.laohu8.com/news/2671211645"
+      "title": "美股加密货币概念股盘前集体拉升，Robinhood涨超5%",
+      "url": "https://www.laohu8.com/news/1148680571"
     }
   ],
-  "premarket_movers": [
-    {
-      "ticker": "SSDEV",
-      "company": "Stablecoin Development Corp",
-      "price": "3.34",
-      "change": "112.74%"
-    },
-    {
-      "ticker": "BBKYI",
-      "company": "Bio-Key International Inc",
-      "price": "2.97",
-      "change": "77.08%"
-    },
-    {
-      "ticker": "SSSTI",
-      "company": "SoundThinking Inc",
-      "price": "8.24",
-      "change": "50.73%"
-    },
-    {
-      "ticker": "DDXST",
-      "company": "Decent Holding Inc",
-      "price": "2.88",
-      "change": "47.95%"
-    },
-    {
-      "ticker": "SSANG",
-      "company": "Sangoma Technologies Corp",
-      "price": "4.94",
-      "change": "37.60%"
-    },
-    {
-      "ticker": "MMSGY",
-      "company": "Masonglory Ltd",
-      "price": "4.30",
-      "change": "37.22%"
-    },
-    {
-      "ticker": "IIOVA",
-      "company": "Iovance Biotherapeutics Inc",
-      "price": "14.73",
-      "change": "34.05%"
-    },
-    {
-      "ticker": "NNAUT",
-      "company": "Nautilus Biotechnology Inc",
-      "price": "1.47",
-      "change": "31.98%"
-    },
-    {
-      "ticker": "XXRPN",
-      "company": "Armada Acquisition Corp II",
-      "price": "13.14",
-      "change": "24.21%"
-    },
-    {
-      "ticker": "SSMJF",
-      "company": "SMJ International Holdings Inc",
-      "price": "2.76",
-      "change": "23.77%"
-    },
-    {
-      "ticker": "PPFSA",
-      "company": "Profusa Inc",
-      "price": "2.08",
-      "change": "23.08%"
-    },
-    {
-      "ticker": "WWYY",
-      "company": "Widepoint Corp",
-      "price": "7.25",
-      "change": "22.88%"
-    },
-    {
-      "ticker": "MMF",
-      "company": "MindForge Inc",
-      "price": "16.95",
-      "change": "21.85%"
-    },
-    {
-      "ticker": "NNCPL",
-      "company": "Netcapital Inc",
-      "price": "1.30",
-      "change": "20.83%"
-    },
-    {
-      "ticker": "FFLX",
-      "company": "BingEx Ltd ADR",
-      "price": "1.63",
-      "change": "17.63%"
-    }
-  ]
+  "premarket_movers": []
 }
